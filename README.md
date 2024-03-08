@@ -1,4 +1,4 @@
-# Hi there! I'm Jeric :wave: a passionate Mobile Developer from the Philippines.
+# Hi there! :wave: I'm Jeric, a passionate Mobile Developer from the Philippines.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -15,10 +15,9 @@ Created an android application to digitalize the stock taking, collecting of pay
 #### Technolgies Used: Android, Java, XML
 
 <p align="center">
+<img src="/images/stockinventorysys/StockInventorySys3.png" width="200"  title="Stock Inventory System Application">
 <img src="/images/stockinventorysys/StockInventorySys1.png" width="350"  title="Stock Inventory System Application">
 <img src="/images/stockinventorysys/StockInventorySys2.png" width="350"  title="Stock Inventory System Application">
-<br />
-<img src="/images/stockinventorysys/StockInventorySys3.png" width="200"  title="Stock Inventory System Application">
 </p>
 
 <br />
@@ -55,14 +54,13 @@ This recipe app has the ability to view three recipe types(chicken, beef and fis
 ## Flutter
 
 ### Quiz App
-This application allowing users to answer questions on various topics, receive feedback on their performance, and recording the scores under score board.
+This application is allowing the users to answer questions on various topics, receive feedback on their performance, and recording the scores under score board.
 
 #### Technolgies Used: Flutter, Dart, Hybrid Mobile App iOS/Android
 
 #### Android
 <p align="center">
 <img src="/images/quizapp/QuizApp1(Android).png" width="190"  title="Quiz Application">
-<img src="/images/quizapp/QuizApp2(Android).png" width="190"  title="Quiz Application">
 <img src="/images/quizapp/QuizApp3(Android).png" width="190"  title="Quiz Application">
 <img src="/images/quizapp/QuizApp4(Android).png" width="190"  title="Quiz Application">
 <img src="/images/quizapp/QuizApp5(Android).png" width="190"  title="Quiz Application">
@@ -72,7 +70,6 @@ This application allowing users to answer questions on various topics, receive f
 
 <p align="center">
 <img src="/images/quizapp/QuizApp1(iOS).png" width="190"  title="Quiz Application">
-<img src="/images/quizapp/QuizApp2(iOS).png" width="190"  title="Quiz Application">
 <img src="/images/quizapp/QuizApp3(iOS).png" width="190"  title="Quiz Application">
 <img src="/images/quizapp/QuizApp4(iOS).png" width="190"  title="Quiz Application">
 <img src="/images/quizapp/QuizApp5(iOS).png" width="190"  title="Quiz Application">
@@ -90,7 +87,6 @@ This app can display list of jokes with setup and delivery and has the ability t
 <img src="/images/jokesapp/JokesApp1(Android).png" width="190"  title="Jokes Application">
 <img src="/images/jokesapp/JokesApp2(Android).png" width="190"  title="Jokes Application">
 <img src="/images/jokesapp/JokesApp3(Android).png" width="190"  title="Jokes Application">
-<img src="/images/jokesapp/JokesApp4(Android).png" width="190"  title="Jokes Application">
 <img src="/images/jokesapp/JokesApp5(Android).png" width="190"  title="Jokes Application">
 </p>
 
@@ -100,7 +96,6 @@ This app can display list of jokes with setup and delivery and has the ability t
 <img src="/images/jokesapp/JokesApp1(iOS).png" width="190"  title="Jokes Application">
 <img src="/images/jokesapp/JokesApp2(iOS).png" width="190"  title="Jokes Application">
 <img src="/images/jokesapp/JokesApp3(iOS).png" width="190"  title="Jokes Application">
-<img src="/images/jokesapp/JokesApp4(iOS).png" width="190"  title="Jokes Application">
 <img src="/images/jokesapp/JokesApp5(iOS).png" width="190"  title="Jokes Application">
 </p>
 
@@ -114,12 +109,12 @@ This hybrid application has the ability to display the recipes, filter by cuisin
 #### Technolgies Used: NativeScript, TypeScript, Hybrid Mobile App iOS/Android, Data Storage, Image Picker
 
 <p align="center">
-<img src="/images/recipeappns/RecipeNS1.png" width="240"  title="RecipeNS Application">
-<img src="/images/recipeappns/RecipeNS2.png" width="240"  title="RecipeNS Application">
-<img src="/images/recipeappns/RecipeNS3.png" width="240"  title="RecipeNS Application">
-<img src="/images/recipeappns/RecipeNS4.png" width="240"  title="RecipeNS Application">
-<img src="/images/recipeappns/RecipeNS5.png" width="240"  title="RecipeNS Application">
-<img src="/images/recipeappns/RecipeNS6.png" width="240"  title="RecipeNS Application">
+<img src="/images/recipeappns/RecipeNS1.png" width="250"  title="RecipeNS Application">
+<img src="/images/recipeappns/RecipeNS2.png" width="250"  title="RecipeNS Application">
+<img src="/images/recipeappns/RecipeNS3.png" width="250"  title="RecipeNS Application">
+<img src="/images/recipeappns/RecipeNS4.png" width="250"  title="RecipeNS Application">
+<img src="/images/recipeappns/RecipeNS5.png" width="250"  title="RecipeNS Application">
+<img src="/images/recipeappns/RecipeNS6.png" width="250"  title="RecipeNS Application">
 </p>
 
 <br />
