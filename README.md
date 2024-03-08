@@ -15,9 +15,10 @@ Created an android application to digitalize the stock taking, collecting of pay
 #### Technologies Used: Android, Java, XML
 
 <p align="center">
-<img src="/images/stockinventorysys/StockInventorySys3.png" width="200"  title="Stock Inventory System Application">
 <img src="/images/stockinventorysys/StockInventorySys1.png" width="350"  title="Stock Inventory System Application">
 <img src="/images/stockinventorysys/StockInventorySys2.png" width="350"  title="Stock Inventory System Application">
+<br />
+<img src="/images/stockinventorysys/StockInventorySys3.png" width="200"  title="Stock Inventory System Application">
 </p>
 
 <br />
@@ -28,10 +29,10 @@ Created a simple weather tracker using OpenWeather API and authentication featur
 #### Technologies Used: Android, Kotlin, Firebase Authentication, Retrofit OkHttp, RxJava, MVVM, Dagger Hilt, MVVM, Room, Unit Testing
 
 <p align="center">
-<img src="/images/weatherapp/WeatherApp1.png" width="200"  title="Weather Application">
-<img src="/images/weatherapp/WeatherApp2.png" width="200"  title="Weather Application">
-<img src="/images/weatherapp/WeatherApp3.png" width="200"  title="Weather Application">
-<img src="/images/weatherapp/WeatherApp4.png" width="200"  title="Weather Application">
+<img src="/images/weatherapp/WeatherApp1.png" width="175"  title="Weather Application">
+<img src="/images/weatherapp/WeatherApp3.png" width="175"  title="Weather Application">
+<img src="/images/weatherapp/WeatherApp4.png" width="175"  title="Weather Application">
+<img src="/images/weatherapp/WeatherApp5.png" width="175"  title="Weather Application">
 </p>
 
 <br />
