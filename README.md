@@ -12,7 +12,7 @@
 ### Stock Inventory System
 Created an android application to digitalize the stock taking, collecting of payments and monitoring of the stocks.
 
-#### Technolgies Used: Android, Java, XML
+#### Technologies Used: Android, Java, XML
 
 <p align="center">
 <img src="/images/stockinventorysys/StockInventorySys3.png" width="200"  title="Stock Inventory System Application">
@@ -25,7 +25,7 @@ Created an android application to digitalize the stock taking, collecting of pay
 ### Weather App
 Created a simple weather tracker using OpenWeather API and authentication feature using Firebase.
 
-#### Technolgies Used: Android, Kotlin, Firebase Authentication, Retrofit OkHttp, RxJava, MVVM, Dagger Hilt, MVVM, Room, Unit Testing
+#### Technologies Used: Android, Kotlin, Firebase Authentication, Retrofit OkHttp, RxJava, MVVM, Dagger Hilt, MVVM, Room, Unit Testing
 
 <p align="center">
 <img src="/images/weatherapp/WeatherApp1.png" width="200"  title="Weather Application">
@@ -39,7 +39,7 @@ Created a simple weather tracker using OpenWeather API and authentication featur
 ### Recipe App
 This recipe app has the ability to view three recipe types(chicken, beef and fish). When viewing the type of recipe, the user will be able to see the list of recipes and view their details. There is also an add recipe function per type, to categorize the specific recipe you're going to add. 
 
-#### Technolgies Used: Android Native, Java, Local Storage(GreenDAO)
+#### Technologies Used: Android Native, Java, Local Storage(GreenDAO)
 
 <p align="center">
 <img src="/images/recipeappna/RecipeAN1.png" width="175"  title="RecipeAN Application">
@@ -56,7 +56,7 @@ This recipe app has the ability to view three recipe types(chicken, beef and fis
 ### Quiz App
 This application is allowing the users to answer questions on various topics, receive feedback on their performance, and recording the scores under score board.
 
-#### Technolgies Used: Flutter, Dart, Hybrid Mobile App iOS/Android
+#### Technologies Used: Flutter, Dart, Hybrid Mobile App iOS/Android
 
 #### Android
 <p align="center">
@@ -80,7 +80,7 @@ This application is allowing the users to answer questions on various topics, re
 ### Jokes App
 This app can display list of jokes with setup and delivery and has the ability to filter by category and save the jokes locally.
 
-#### Technolgies Used: Flutter, Dart, Hybrid Mobile App iOS/Android
+#### Technologies Used: Flutter, Dart, Hybrid Mobile App iOS/Android
 
 #### Android
 <p align="center">
@@ -106,7 +106,7 @@ This app can display list of jokes with setup and delivery and has the ability t
 ### Recipe App
 This hybrid application has the ability to display the recipes, filter by cuisine, and view the recipe details containing the ingredients and instructions. Due to API limitation, the adding and editing of the recipe is only working locally. And for local storage, this app is using the nativescript-sqlite library to perform data storage.
 
-#### Technolgies Used: NativeScript, TypeScript, Hybrid Mobile App iOS/Android, Data Storage, Image Picker
+#### Technologies Used: NativeScript, TypeScript, Hybrid Mobile App iOS/Android, Data Storage, Image Picker
 
 <p align="center">
 <img src="/images/recipeappns/RecipeNS1.png" width="250"  title="RecipeNS Application">
