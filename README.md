@@ -120,4 +120,24 @@ This hybrid application has the ability to display the recipes, filter by cuisin
 
 <br />
 
+## iOS 
+
+### NewsATM (WIP)
+NewsATM basically displays the latest news obtained from a third party API and has the ability to bookmark the article for later reference.
+
+This app is still ongoing, mainly for the implementation of authentication using Firebase Authentication.
+
+#### Technologies Used: iOS, Swift, SwiftUI, Firebase Authentication
+
+<p align="center">
+<img src="/images/newsatm/NewsATM1(Light).png" width="250"  title="NewsATM Application">
+<img src="/images/newsatm/NewsATM2(Light).png" width="250"  title="NewsATM Application">
+<img src="/images/newsatm/NewsATM3(Light).png" width="250"  title="NewsATM Application">
+<img src="/images/newsatm/NewsATM1(Dark).png" width="250"  title="NewsATM Application">
+<img src="/images/newsatm/NewsATM2(Dark).png" width="250"  title="NewsATM Application">
+<img src="/images/newsatm/NewsATM3(Dark).png" width="250"  title="NewsATM Application">
+</p>
+
+<br />
+
 ## Thanks for visiting! :bow:
