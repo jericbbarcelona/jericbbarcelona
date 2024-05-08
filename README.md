@@ -26,7 +26,7 @@ Created an android application to digitalize the stock taking, collecting of pay
 ### Weather App
 Created a simple weather tracker using OpenWeather API and authentication feature using Firebase.
 
-#### Technologies Used: Android, Kotlin, Firebase Authentication, Retrofit OkHttp, RxJava, MVVM, Dagger Hilt, MVVM, Room, Unit Testing
+#### Technologies Used: Android, Kotlin, Firebase Authentication, Retrofit OkHttp, Coroutines, MVVM, Dagger Hilt, MVVM, Room, Unit Testing
 
 <p align="center">
 <img src="/images/weatherapp/WeatherApp1.png" width="175"  title="Weather Application">
